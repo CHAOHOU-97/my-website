@@ -1,14 +1,15 @@
 ---
-title: "Systematic prediction of degrons and E3 ubiquitin ligase binding via deep learning"
+title: "Screening membraneless organelle participants with machine-learning models that integrate multimodal features"
 authors:
-- Hou C, Li Y, Wang M, Wu H, Li T
+- Chen Z#, Hou C#, Wang L#, Yu C, Chen T, Shen B, Hou Y, Li P, Li T
 # author_notes:
 # - "Equal contribution"
-date: "2022-07-14T00:00:00Z"
+date: "2022-06-14T00:00:00Z"
 publication_types: ["2"]
-publication: "BMC Biol"
-url_pdf: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01364-6
+publication: "Proc Natl Acad Sci U S A"
+url_pdf: https://www.pnas.org/doi/10.1073/pnas.2115369119
 ---
+
 
 {{% callout note %}}
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.

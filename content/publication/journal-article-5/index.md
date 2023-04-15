@@ -1,13 +1,13 @@
 ---
-title: "Systematic prediction of degrons and E3 ubiquitin ligase binding via deep learning"
+title: "Serum Antigenome Profiling Reveals Diagnostic Models for Rheumatoid Arthritis"
 authors:
-- Hou C, Li Y, Wang M, Wu H, Li T
+- Han P, Hou C, Zheng X, Cao L, Shi X, Zhang X, Ye H, Pan H, Liu L, Li T, Hu F, Li Z
 # author_notes:
 # - "Equal contribution"
-date: "2022-07-14T00:00:00Z"
+date: "2022-04-20T00:00:00Z"
 publication_types: ["2"]
-publication: "BMC Biol"
-url_pdf: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01364-6
+publication: "Front Immunol"
+url_pdf: https://www.frontiersin.org/articles/10.3389/fimmu.2022.884462/full
 ---
 
 {{% callout note %}}

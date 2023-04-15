@@ -1,13 +1,13 @@
 ---
-title: "Systematic prediction of degrons and E3 ubiquitin ligase binding via deep learning"
+title: "Quantifying the phase separation property of chromatin-associated proteins under physiological conditions using an anti-1,6-hexanediol index"
 authors:
-- Hou C, Li Y, Wang M, Wu H, Li T
+- Shi M#, You K#, Chen T, Hou C, Liang Z, Liu M, Wang J, Wei T, Qin J, Chen Y, Zhang MQ, Li T
 # author_notes:
 # - "Equal contribution"
-date: "2022-07-14T00:00:00Z"
+date: "2021-8-17T00:00:00Z"
 publication_types: ["2"]
-publication: "BMC Biol"
-url_pdf: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01364-6
+publication: "Genome Biol"
+url_pdf: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02456-2
 ---
 
 {{% callout note %}}

@@ -60,5 +60,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an MD student of Medical Bioinformatics at the Peking University. My research interests include (1) Transcription regulation and genome organization, (2) Precision medicine based on multi-omics data and single-cell data, (3) Understanding protein function and regulation via deep learning, (4) Drug designation and effect prediction via deep learning.
+I am an MD student of Medical Bioinformatics at Peking University. My research interests include (1) Transcription regulation and genome organization, (2) Precision medicine based on multi-omics data and single-cell data, (3) Understanding protein function and regulation via deep learning, (4) Drug designation and effect prediction via deep learning.
 {style="text-align: justify;"}

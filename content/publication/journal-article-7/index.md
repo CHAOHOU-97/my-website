@@ -1,13 +1,13 @@
 ---
-title: "Systematic prediction of degrons and E3 ubiquitin ligase binding via deep learning"
+title: "Distinctive Network Topology of Phase-Separated Proteins in Human Interactome"
 authors:
-- Hou C, Li Y, Wang M, Wu H, Li T
+- Yu C#, Lang Y#, Hou C, Yang E, Ren X, Li T
 # author_notes:
 # - "Equal contribution"
-date: "2022-07-14T00:00:00Z"
+date: "2022-01-15T00:00:00Z"
 publication_types: ["2"]
-publication: "BMC Biol"
-url_pdf: https://bmcbiol.biomedcentral.com/articles/10.1186/s12915-022-01364-6
+publication: "J Mol Biol"
+url_pdf: https://www.sciencedirect.com/science/article/pii/S0022283621005295
 ---
 
 {{% callout note %}}
