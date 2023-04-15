@@ -32,18 +32,19 @@ sections:
           location: Beijing
           date_start: '2020-09-01'
           date_end: ''
-          description: Advisor-prof. Tingting Li, Anticipated graduation-Jul 2023
+          description: |2-
+          Advisor: prof. Tingting Li
+          Anticipated graduation: Jul 2023
         - title: Bachelor of Medicine
           company: Peking University
           location: Beijing
           date_start: '2015-09-01'
           date_end: '2020-06-30'
-        - title: Bachelor of Economics
+        - title: Bachelor of Economics (double degree)
           company: Peking University
           location: Beijing
           date_start: '2016-09-01'
           date_end: '2020-06-30'
-          description: Double degree
     design:
       columns: '2'
 
