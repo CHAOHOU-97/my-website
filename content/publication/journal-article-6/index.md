@@ -4,7 +4,7 @@ authors:
 - Shi M#, You K#, Chen T, Hou C, Liang Z, Liu M, Wang J, Wei T, Qin J, Chen Y, Zhang MQ, Li T
 # author_notes:
 # - "Equal contribution"
-date: "2021-8-17T00:00:00Z"
+date: "2021-08-17T00:00:00Z"
 publication_types: ["2"]
 publication: "Genome Biol"
 url_pdf: https://genomebiology.biomedcentral.com/articles/10.1186/s13059-021-02456-2
