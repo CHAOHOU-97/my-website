@@ -33,8 +33,7 @@ sections:
           date_start: '2020-09-01'
           date_end: ''
           description: |2-
-            Advisor: prof. Tingting Li
-            Anticipated graduation: Jul 2023
+            Advisor: prof. Tingting Li; Anticipated graduation: Jul 2023
         - title: Bachelor of Medicine
           company: Peking University
           location: Beijing
