@@ -1,22 +1,12 @@
 ---
-title: "PhaSepDB in 2022: annotating phase separation-related proteins with droplet states, co-phase separation partners and other experimental information"
+title: "Systematic prediction of degrons and E3 ubiquitin ligase binding via deep learning"
 authors:
-- Hou C#, Wang X#, Xie H#, Chen T, Zhu P, Xu X, You K, Li T
+- Hou C, Li Y, Wang M, Wu H, Li T
 # author_notes:
 # - "Equal contribution"
-date: "2023-01-06T00:00:00Z"
+date: "2022-07-14T00:00:00Z"
 publication_types: ["2"]
-publication: "Nucleic Acids Res"
-url_pdf: http://arxiv.org/pdf/1512.04133v1
-
-title: "PhaSepDB in 2022: annotating phase separation-related proteins with droplet states, co-phase separation partners and other experimental information"
-authors:
-- Hou C#, Wang X#, Xie H#, Chen T, Zhu P, Xu X, You K, Li T
-# author_notes:
-# - "Equal contribution"
-date: "2023-01-06T00:00:00Z"
-publication_types: ["2"]
-publication: "Nucleic Acids Res"
+publication: "BMC Biol"
 url_pdf: http://arxiv.org/pdf/1512.04133v1
 ---
 
