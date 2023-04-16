@@ -48,7 +48,7 @@ sections:
 
   - block: accomplishments
     content:
-      title: Accomplishments
+      title: Tools
       subtitle: ''
       text: ''
       # Date format: https://wowchemy.com/docs/customization/#date-format
@@ -59,14 +59,6 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: PhaSepDB
-          certificate_url: ''
-          date_end: ''
-          date_start: ''
-          description: 'A database of phase separation related proteins'
-          organization: ''
-          organization_url: ''
-          url: 'http://db.phasep.pro/'
         - title: Blockchain Fundamentals
           certificate_url: https://www.edx.org
           date_end: ''
