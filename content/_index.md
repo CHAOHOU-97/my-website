@@ -64,8 +64,8 @@ sections:
           date_end: ''
           date_start: '2022-06-07'
           description: PhaSepDB provides a collection of manually curated phase separation (PS) proteins and Membraneless organelles (MLOs) related proteins. As of June 2022, 1419 PS entries, 73 MLOs, 770 low throughput MLO related entries and 7303 high throughput MLO related entries were included..
-          organization: pku
-          organization_url: https://pku.edu.cn
+          organization: ''
+          organization_url: ''
           url: http://db.phasep.pro/
         - title: 'Object-Oriented Programming in R'
           certificate_url: https://www.datacamp.com
