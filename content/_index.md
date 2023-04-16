@@ -46,25 +46,7 @@ sections:
     design:
       columns: '2'
 
-  - block: accomplishments
-    id: Tools
-    content:
-      title: Tools
-      subtitle: ''
-      text: ''
-      # Date format: https://wowchemy.com/docs/customization/#date-format
-      # date_format: Jan 2006
-      # Accomplishments.
-      #   Add/remove as many `items` blocks below as you like.
-      #   `title`, `organization`, and `date_start` are the required parameters.
-      #   Leave other parameters empty if not required.
-      #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-      items:
-        - title: PhaSepDB--a database of phase separation related proteins
-          description: ''
 
-    design:
-      columns: '2'
 
   - block: collection
     id: Publications
