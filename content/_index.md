@@ -32,7 +32,7 @@ sections:
           location: Beijing
           date_start: '2020-09-01'
           date_end: ''
-          description: Anticipated graduation: Jul 2023
+          description: Anticipated graduation--Jul 2023
         - title: Bachelor of Medicine
           company: Peking University
           location: Beijing
