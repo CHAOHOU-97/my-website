@@ -59,14 +59,14 @@ sections:
       #   Leave other parameters empty if not required.
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
-        - title: Neural Networks and Deep Learning
-          certificate_url: https://www.coursera.org
+        - title: PhaSepDB
+          certificate_url: ''
           date_end: ''
-          date_start: '2021-01-25'
-          description: ''
-          organization: Coursera
-          organization_url: https://www.coursera.org
-          url: ''
+          date_start: ''
+          description: 'A database of phase separation related proteins'
+          organization: ''
+          organization_url: ''
+          url: 'http://db.phasep.pro/'
         - title: Blockchain Fundamentals
           certificate_url: https://www.edx.org
           date_end: ''
