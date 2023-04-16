@@ -60,7 +60,7 @@ sections:
       #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
       items:
         - title: PhaSepDB--a database of phase separation related proteins
-          certificate_url: https://www.edx.org
+          certificate_url: ''
           date_end: ''
           date_start: '2022-06-07'
           description: PhaSepDB provides a collection of manually curated phase separation (PS) proteins and Membraneless organelles (MLOs) related proteins. As of June 2022, 1419 PS entries, 73 MLOs, 770 low throughput MLO related entries and 7303 high throughput MLO related entries were included..
