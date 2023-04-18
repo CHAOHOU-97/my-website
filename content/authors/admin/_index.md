@@ -60,5 +60,5 @@ email: ''
 highlight_name: true
 ---
 
-I am an MD student of Medical Bioinformatics at Peking University. My doctoral works study phase separation and protein degradation (PI: [prof. Tingting Li](http://bioinfolilab.phasep.pro/)). My research interests include:<br> (1) Transcription regulation and genome organization,<br> (2) Precision medicine based on multi-omics data and single-cell data,<br> (3) Understanding protein function and regulation via deep learning,<br> (4) Drug designation and effect prediction via deep learning.<br> I was born in Zhucheng city, Shandon, China. I like basketball, skiing and photography. (update: 2023-04-16)
+I am an MD student of Medical Bioinformatics at Peking University. I have developed bioinformatics tools for studying phase separation and protein degradation during my doctoral period (PI: [prof. Tingting Li](http://bioinfolilab.phasep.pro/)). My research interests include:<br> Transcription regulation and genome organization,<br> Precision medicine based on multi-omics data,<br> Protein language model,<br> Drug designation and effect prediction via deep learning,<br> Studying cell differentiation and drug response using single-cell data,<br> I was born in Zhucheng city, Shandon, China. I like basketball, skiing and photography. (update: 2023-04-18)
 {style="text-align: justify;"}
